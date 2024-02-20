@@ -1,0 +1,5 @@
+# Ignorar archivos con extensión .md
+*.md
+
+# Ignorar la carpeta calculator y su contenido
+calculator/
